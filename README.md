@@ -9,13 +9,13 @@ O sistema permite cadastrar, listar e deletar usuários de forma simples e intui
 
 ### 📝 Tela de Cadastro
 
-![Tela Cadastro](README-assets/cadastro-users.png)
+![Tela Cadastro](./README-assets/cadastro-users.png)
 
 ---
 
 ### 👥 Lista de Usuários
 
-![Tela Lista](README-assets/lista-users.png)
+![Tela Lista](./README-assets/lista-users.png)
 
 ---
 
